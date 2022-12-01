@@ -1,2 +1,2 @@
-# PROJETO_PESSOAL
+# PROJETO_TAILWINDCSS
  Project developed using tailwindcss
