@@ -1,2 +1,2 @@
-# PROJETO_PESSOAL
- Projeto desenvolvido utilizando Tailwindcss
+# PROJETO_TAILWINDCSS
+ Project developed using tailwindcss
